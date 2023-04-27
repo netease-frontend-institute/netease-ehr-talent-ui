@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_netease_ehr_talent_ui=self.webpackChunk_netease_ehr_talent_ui||[]).push([[448],{12535:function(i,n,e){e.r(n),e.d(n,{default:function(){return o}});var t=e(57199),r=e(67294),u=function(){var s=(0,t.UO)(),d=s.id,m=(0,t.WF)(),c=m.demos,f=c[d]||{},a=f.component;return a&&(0,r.createElement)(a)},o=u}}]);
